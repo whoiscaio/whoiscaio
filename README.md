@@ -24,6 +24,5 @@ Hello everyone, I'm Caio, a brazilian self-taught frontend developer.
   
 <div>
   <a href="https://www.linkedin.com/in/lima-caio/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://instagram.com/caiolima_dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/></a>
   <a href="mailto:whoiscaio@pm.me" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail Badge"/></a>
 </div>
