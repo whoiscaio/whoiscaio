@@ -1,6 +1,6 @@
 ### Who is Caio?
 
-Hi everyone, i'm Caio, a brazilian self-taught frontend developer.
+Hello everyone, I'm Caio, a brazilian self-taught frontend developer.
 
 <div align="center">
   <a href="https://github.com/whoiscaio">
