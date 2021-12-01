@@ -1,6 +1,8 @@
 ### Who is Caio?
 
-Hello everyone, I'm Caio, a brazilian self-taught frontend developer.
+Hi, i'd like to ensure you're having a great time, so here's a piece of my grattitude ☕!
+
+I discovered myself through coding in 2018, and since then i'm working on getting better everyday, feel free to look at my public repositories and let me know if there's anything i can improve.
 
 <div align="center">
   <a href="https://github.com/whoiscaio">
