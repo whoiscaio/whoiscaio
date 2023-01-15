@@ -5,12 +5,6 @@ Hi, i'd like to ensure you're having a great time, so here's a piece of my gratt
 I discovered myself through coding in 2018, and since then i'm working on getting better everyday, feel free to look at my public repositories and let me know if there's anything i can improve.
 
 Obs: Most of my code activity over the time i've been working is displayed on my GitLab Overview Page, so make sure to check it out!
-
-<div align="center">
-  <a href="https://github.com/whoiscaio">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=whoiscaio&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoiscaio&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
   <h2>Main technologies</h2>
   
